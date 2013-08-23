@@ -1016,8 +1016,8 @@
 
 
   <name key="Boots" tags="p m">
-    <singular>Boots</singular>
-    <plural>Boots</plural>
+    <singular>Ayakkabı</singular>
+    <plural>Ayakkabılar</plural>
   </name>
 
   <name key="Gloves" tags="p m">
@@ -1026,8 +1026,8 @@
   </name>
 
   <name key="ChestArmor" tags="f">
-    <singular>Chest Armor</singular>
-    <plural>Chest Armors</plural>
+    <singular>Göğüs Zırhı</singular>
+    <plural>Göğüs Zırhları</plural>
   </name>
 
   <name key="ShoulderArmor" tags="f">
@@ -1036,18 +1036,18 @@
   </name>
 
   <name key="Sword" tags="n">
-    <singular>Sword</singular>
-    <plural>Swords</plural>
+    <singular>Kılıç</singular>
+    <plural>Kılıçlar</plural>
   </name>
 
   <name key="Dagger" tags="m">
-    <singular>Dagger</singular>
-    <plural>Daggers</plural>
+    <singular>Hançer</singular>
+    <plural>Hançerler</plural>
   </name>
 
   <name key="Fist" tags="f">
-    <singular>Fist</singular>
-    <plural>Fists</plural>
+    <singular>Yumruk</singular>
+    <plural>Yumruklar</plural>
   </name>
 
   <name key="Mace" tags="m">
@@ -1056,8 +1056,8 @@
   </name>
 
   <name key="Axe" tags="f">
-    <singular>Axe</singular>
-    <plural>Axes</plural>
+    <singular>Balta</singular>
+    <plural>Baltalar</plural>
   </name>
 
   <name key="Bow" tags="m">
@@ -1086,8 +1086,8 @@
   </name>
 
   <name key="Torch" tags="f">
-    <singular>Torch</singular>
-    <plural>Torches</plural>
+    <singular>Meşale</singular>
+    <plural>Meşaleler</plural>
   </name>
 
   <name key="Staff" tags="m">
@@ -1106,8 +1106,8 @@
   </name>
 
   <name key="Shield" tags="m">
-    <singular>Shield</singular>
-    <plural>Shields</plural>
+    <singular>Kalkan</singular>
+    <plural>Kalkanlar</plural>
   </name>
 
   <name key="Greatsword" tags="n">
@@ -1146,8 +1146,8 @@
   </name>
   
   <name key="Boat" tags="m">
-    <singular>Boat</singular>
-    <plural>Boats</plural>
+    <singular>Tekne</singular>
+    <plural>Tekneler</plural>
   </name>
 
   <name key="Lamp" tags="f">
@@ -1161,8 +1161,8 @@
   </name>
 
   <name key="Mushroom" tags="m">
-    <singular>Mushroom</singular>
-    <plural>Mushrooms</plural>
+    <singular>Mantar</singular>
+    <plural>Mantarlar</plural>
   </name>
 
   <name key="ShimmerMushroom" tags="m">
@@ -1181,8 +1181,8 @@
   </name>
 
   <name key="Cookie">
-    <singular>Cookie</singular>
-    <plural>Cookies</plural>
+    <singular>Kurabiye</singular>
+    <plural>Kurabiyeler</plural>
   </name>
 
   <name key="Bait">
@@ -1211,8 +1211,8 @@
   </name>
 
   <name key="Carrot">
-    <singular>Carrot</singular>
-    <plural>Carrots</plural>
+    <singular>Havuç</singular>
+    <plural>Havuçlar</plural>
   </name>
 
   <name key="PumpkinMash">
@@ -1226,8 +1226,8 @@
   </name>
 
   <name key="Lollipop">
-    <singular>Lollipop</singular>
-    <plural>Lollipops</plural>
+    <singular>Lolipop</singular>
+    <plural>Lolipoplar</plural>
   </name>
 
   <name key="Softice">
@@ -1246,8 +1246,8 @@
   </name>
 
   <name key="Popcorn">
-    <singular>Popcorn</singular>
-    <plural>Popcorn</plural>
+    <singular>Mısır</singular>
+    <plural>Mısırlar</plural>
   </name>
 
   <name key="CerealBar">
